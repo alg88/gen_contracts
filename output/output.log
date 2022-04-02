@@ -1,0 +1,18 @@
+2022-04-02 22:18:02,755 - INFO - Open data file: data\test1.csv
+2022-04-02 22:18:02,833 - INFO - File generated: "output/100005".docx
+2022-04-02 22:18:02,912 - INFO - File generated: "output/100006".docx
+2022-04-02 22:19:03,112 - INFO - Open data file: data\test.json
+2022-04-02 22:19:03,206 - INFO - File generated: "output/100001".docx
+2022-04-02 22:19:03,284 - INFO - File generated: "output/100002".docx
+2022-04-02 22:19:03,362 - INFO - File generated: "output/100003".docx
+2022-04-02 22:37:32,622 - INFO - Open data file: data\test.json
+2022-04-02 22:37:32,700 - INFO - File generated: "output/100001".docx
+2022-04-02 22:37:32,700 - INFO - Generate PDF:output/100001.pdf
+2022-04-02 22:37:33,460 - INFO - File generated: "output/100002".docx
+2022-04-02 22:37:33,460 - INFO - Generate PDF:output/100002.pdf
+2022-04-02 22:37:33,971 - INFO - File generated: "output/100003".docx
+2022-04-02 22:37:33,971 - INFO - Generate PDF:output/100003.pdf
+2022-04-02 22:39:41,843 - INFO - Open data file: data\test.json
+2022-04-02 22:39:41,843 - INFO - File: output/100001.docx already exists
+2022-04-02 22:39:41,843 - INFO - File: output/100002.docx already exists
+2022-04-02 22:39:41,843 - INFO - File: output/100003.docx already exists

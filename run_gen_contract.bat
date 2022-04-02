@@ -1,0 +1,1 @@
+venv\Scripts\python.exe gen_contracts.py --data_path data --data_mask *.json --templ_path templates --output_path output --no-pdf --no-replace --log_file output.log --encode ansi --csv_delimiter ;
